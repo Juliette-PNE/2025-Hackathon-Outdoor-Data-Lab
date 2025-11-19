@@ -2,6 +2,7 @@
 
 L’outil doit répondre aux problématiques du Parc national des Écrins :
 
+
 * comprendre et visualiser les interactions entre sports de nature et biodiversité
 * observer et analyser la fréquentation (notamment lacs, sentiers, zones sensibles)
 * croiser les données internes et externes (écocompteurs, pièges photo, refuges, Strava, Outdoorvision, météo…)
